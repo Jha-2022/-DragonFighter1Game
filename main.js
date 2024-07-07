@@ -221,7 +221,7 @@ function sellWeapon(){
 function fightSlime(){
     fighting=0;
     goFight();
-    imagebox.src="images/slime_man.jpeg"
+    imagebox.src="images/slime-man.jpeg"
 }
 
 function fightBeast (){
