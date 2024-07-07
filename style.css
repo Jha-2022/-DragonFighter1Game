@@ -1,0 +1,46 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNdL5YTyBrbJvbwWqM2vf5gkz0ufL16GdWZA&s") ;
+}
+/* #FDFDFD */
+#game{
+    background-color:lightgray;
+    border: 10px solid #A0937D;
+    border-style:groove;
+    width:50%;
+    margin:0 auto;
+    max-width:500px;
+    max-height:400px
+}
+
+#stats{
+    padding:5px;
+    border:1px solid black;
+}
+
+#monsterStats{
+    Display:none;
+    border:1px black solid;
+    color:white;
+    padding:5px;
+    background-color:red;
+}
+
+.stat{
+    padding-right:10px
+}
+
+#controls{
+    border:1px solid black;
+    padding:5px;
+}
+
+button{
+    padding: 3px;
+}
+
+
+#text{
+    background-color:black;
+    color:white;
+    padding:3%;
+}
